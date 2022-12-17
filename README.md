@@ -1,2 +1,2 @@
-# fuck
+# nanosync ui
 NiggerTalker.cc
